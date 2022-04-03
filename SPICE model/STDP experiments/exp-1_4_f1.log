@@ -1,4 +1,4 @@
-Circuit: * C:\users\crossover\My Documents\LTspiceXVII\willian\exp-1_4_f1.asc
+Circuit: * C:\Users\thele\PycharmProjects\Memristor-Models\SPICE model\STDP experiments\exp-1_4_f1.asc
 
 WARNING: Node NC_01 is floating and connected to current source G:U1:X.  It's .op solution is defined solely by a .ic statement.
 
@@ -211,8 +211,8 @@ Measurement: res
    101	0.00750202	0.206
 
 
-Date: Fri Oct 29 11:09:06 2021
-Total elapsed time: 15.645 seconds.
+Date: Mon Mar 21 12:24:32 2022
+Total elapsed time: 8.844 seconds.
 
 tnom = 27
 temp = 27
@@ -225,6 +225,6 @@ rejected = 102
 matrix size = 11
 fillins = 0
 solver = Normal
-Matrix Compiler1: 198 bytes object code size  0.4/0.4/[0.3]
-Matrix Compiler2: 695 bytes object code size  0.4/0.4/[0.3]
+Matrix Compiler1: 198 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2: off  [0.0]/0.1/0.0
 

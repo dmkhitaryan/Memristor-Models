@@ -198,3 +198,4 @@ for solv in args.solvers:
     fig4.show()
 
 ####
+plt.show()
